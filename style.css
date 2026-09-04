@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+.tabela {
+    margin-left: 700px;
+    border-radius: 8px;
+}
+
+.Colaborador {
+border-radius: 20px;
+}
+
+.NOME {
+    border-radius: 20px;
+}
+
+input {
+    border-radius: 20px;
+}

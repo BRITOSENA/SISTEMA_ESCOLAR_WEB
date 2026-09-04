@@ -1,2 +1,2 @@
-# SISTEMA_ESCOLAR_WEB
-Respositório destinado ao sistema de gerenciamento escolar, no formato web
+# PROJETO_GERENCIAMENTO_ESCOLAR_FRONT
+Repositório destinado ao front do projeto web de gerenciamento escolar.
